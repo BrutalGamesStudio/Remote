@@ -1,0 +1,2 @@
+Staged for commit
+Modified after staged but before the commit
