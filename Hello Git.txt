@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello Git, not staged for commit
 Provoking version conflict
+=======
+Changing the content of this file to commit with -a option
+>>>>>>> e6163088a0cf7f729145b73b35bb3e80a7020f27
