@@ -1,1 +1,2 @@
 Hello Git, not staged for commit
+Provoking version conflict
