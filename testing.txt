@@ -1,1 +1,2 @@
 Lets do some changes and try to switch to master branch w/o commit
+Yet another file modification from master branch
