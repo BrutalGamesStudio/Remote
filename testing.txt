@@ -1,1 +1,3 @@
 Lets do some changes and try to switch to master branch w/o commit
+
+Line that conflicts with master
